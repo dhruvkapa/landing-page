@@ -19,6 +19,7 @@
 .logo{
     margin-top: 50px;
     margin-left: 100px;
+    font-size: 24px;
 }
 
 ul{
@@ -30,4 +31,12 @@ li{
     display: inline;
     margin-right: 25px;
     list-style: none;
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+a{
+    text-decoration: none;
+    color:#E5E7EB;
+
 }
