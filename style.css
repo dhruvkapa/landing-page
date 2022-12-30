@@ -16,7 +16,18 @@
     justify-content: space-between;
 }
 
+.logo{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+ul{
+    margin-right: 100px;
+    margin-top:50px;
+}
+
 li{
     display: inline;
+    margin-right: 25px;
     list-style: none;
 }
