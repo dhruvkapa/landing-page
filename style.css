@@ -117,5 +117,9 @@ a{
     border-radius: 8px;
     border-width: 3px;
     margin-top: 40px;
-    margin-right: 25px;
+    margin-right: 50px;
+}
+
+.box1-text, .box2-text, .box3-text, .box4-text{
+    width: 50%;
 }
