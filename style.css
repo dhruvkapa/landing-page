@@ -42,11 +42,15 @@ a{
 }
 
 .info{
+    display: flex;
     margin-left: 100px;
     margin-top: 100px;
 }
 
+.main-text{
+    width:50%;
 
+}
 .website-text{
     font-size: 48px;
     
@@ -59,3 +63,8 @@ a{
 }
 
 
+.placeholder{
+    width: 200px;
+    height:200px;
+    color: white;
+}
