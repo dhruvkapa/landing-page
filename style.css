@@ -168,9 +168,33 @@ a{
 }
 
 .action-block{
+    display: flex;
     width:50%;
     height:100px;
     background-color: #3882F6;
     border-radius: 8px;
+    justify-content: space-around;
+    align-items: center;
+    color: #F9FAF8;
 
+}
+
+
+.header-action{
+    font-weight: bold;
+}
+
+.paragraph-action{
+    color:#E5E7EB;
+}
+
+.right-button{
+    width:100px;
+    padding:5px;
+    border-radius: 4px;
+    border-color: #F9FAF8;
+    border-style: solid;
+    background-color: #3882F6;
+    color:#F9FAF8;
+    font-weight: bold;
 }
