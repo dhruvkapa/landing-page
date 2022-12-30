@@ -9,3 +9,14 @@
     background-color: #1F2937;
     color:#F9FAF8;
 }
+
+
+.logo-links{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    display: inline;
+    list-style: none;
+}
