@@ -17,7 +17,7 @@
 }
 
 .logo{
-    margin-top: 50px;
+    margin-top: 30px;
     margin-left: 100px;
     font-size: 24px;
     font-weight: 900;
@@ -25,7 +25,7 @@
 
 ul{
     margin-right: 100px;
-    margin-top:50px;
+    margin-top:30px;
 }
 
 li{
@@ -44,7 +44,7 @@ a{
 .info{
     display: flex;
     margin-left: 100px;
-    margin-top: 100px;
+    margin-top: 70px;
     justify-content: space-between;
 }
 
@@ -67,7 +67,7 @@ a{
 
 .placeholder{
     width: 400px;
-    height:100px;
+    height:200px;
     margin-right: 100px;
     background-color: grey;
 }
@@ -75,5 +75,5 @@ a{
 .placeholder-text{
     color:#E5E7EB;
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 80px;
 }
